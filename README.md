@@ -31,7 +31,7 @@ In order to analyze Kickstarter outcomes based on funding goals, we grouped outc
 
 After grouping the funding goals according to the determined ranges and adding the columns for the number of successful, number of failed, number canceled, and total number of projects, we were able to use that information to determine the percentages of successful, failed, and canceled projects. 
 
-A review of the chart shows that the highest number of successful campaigns according to funding goal is within the 1000 to 4999 range and the second highest is the Less than 1000 range. However, the line graph, which shows outcomes by percentage, demonstrates that projects with a funding goal less than 1000 have a 76% success rate, and projects with funding goals of 35000-39999 and 40000 to 44999 are tied for the second-highest success rate of 67%. 
+A review of the chart shows that the highest number of successful campaigns according to funding goal is within the 1000 to 4999 range and the second highest is the Less than 1000 range. However, the [line graph](https://github.com/teripeters/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png), which shows outcomes by percentage, demonstrates that projects with a funding goal less than 1000 have a 76% success rate, and projects with funding goals of 35000-39999 and 40000 to 44999 are tied for the second-highest success rate of 67%. 
 
 
 ### Challenges and Difficulties Encountered
