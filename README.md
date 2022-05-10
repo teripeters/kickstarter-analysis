@@ -11,7 +11,7 @@ Demonstrate outcomes of Kickstarter campaigns based on launch dates and funding 
 ### Analysis of Outcomes Based on Launch Date
 I started by creating a pivot chart that shows outcomes (successful, failed, canceled) by month (January-February). Filtering the chart so that it only shows the theater category, shows that May, June, and July have the highest number of successful launches. Interestingly, those same months have the highest number of failed launches. There are about twice as many successful launches than failed in May-July. 
 
-The line graph shows that there is a peak in successful launches in May, with smaller peaks in February and October. It also demonstrates that December has almost as many successful launches as failed launches. 
+The [line graph](https://github.com/teripeters/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png) shows that there is a peak in successful launches in May, with smaller peaks in February and October. It also demonstrates that December has almost as many successful launches as failed launches. 
 
 
 ### Analysis of Outcomes Based on Goals
